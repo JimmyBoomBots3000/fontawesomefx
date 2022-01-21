@@ -40,9 +40,9 @@ import javafx.scene.text.Text;
  */
 public abstract class GlyphIcon<T extends Enum<T> & GlyphIcons> extends Text {
 
-    public final static Double DEFAULT_ICON_SIZE = 12.0;
-    public final static String DEFAULT_FONT_SIZE = "1em";
-    private final static CssParser CSS_PARSER = new CssParser();
+    public static final Double DEFAULT_ICON_SIZE = 12.0;
+    public static final String DEFAULT_FONT_SIZE = "1em";
+    private static final CssParser CSS_PARSER = new CssParser();
 
     private StringProperty glyphStyle; // needed as setStyle() is final in javafx.scene.text.Text 
     private String glyphFontFamily;
@@ -74,7 +74,7 @@ public abstract class GlyphIcon<T extends Enum<T> & GlyphIcons> extends Text {
         setIcon(getDefaultGlyph());
     }
 
-    // convenience method
+    // for unit testsconvenience method
     public final GlyphIcon setStyleClass(String styleClass) {
         getStyleClass().add(styleClass);
         return this;
@@ -155,7 +155,7 @@ public abstract class GlyphIcon<T extends Enum<T> & GlyphIcons> extends Text {
         return unicode;
     }
 
-    abstract public T getDefaultGlyph();
+    public abstract T getDefaultGlyph();
 
     private void updateSize() {
         Font f = new Font(getFont().getFamily(), getGlyphSize().doubleValue());

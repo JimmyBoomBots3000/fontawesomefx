@@ -2,7 +2,7 @@ apply plugin: 'application'
 
 mainClassName = "$moduleName/de.jensd.fx.glyphs.materialdesignicons.demo.MaterialDesignIconsDemoApp"
 
-version '1.7.22-11'
+version '1.7.22-17'
 
 
 dependencies {

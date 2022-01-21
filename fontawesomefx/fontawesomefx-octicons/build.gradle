@@ -2,7 +2,7 @@ apply plugin: 'application'
 
 mainClassName = "$moduleName/de.jensd.fx.glyphs.octicons.demo.OctIconsDemoApp"
 
-version '4.3.0-11'
+version '4.3.0-17'
 
 dependencies {
     implementation project(':fontawesomefx-commons')

@@ -1,4 +1,4 @@
-version '11.0'
+version '17.0'
 
 dependencies {
     implementation project(':fontawesomefx-commons')

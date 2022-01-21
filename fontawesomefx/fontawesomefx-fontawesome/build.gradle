@@ -2,7 +2,7 @@ apply plugin: 'application'
 
 mainClassName = "$moduleName/de.jensd.fx.glyphs.fontawesome.demo.FontAwesomeIconsDemoApp"
 
-version '4.7.0-11'
+version '4.7.0-17'
 
 dependencies {
     implementation project(':fontawesomefx-commons')
