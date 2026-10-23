@@ -23,12 +23,20 @@
   </licenses>
   <developers>
     <developer>
-      <id>jerady</id>
+      <id>JimmyBoomBots3000</id>
+      <name>James Richmond</name>
+      <email>james.b.richmond@gmail.com</email>
+      <url>https://github.com/JimmyBoomBots3000</url>
+      <roles><role>Maintainer</role></roles>
+    </developer>
+  </developers>
+  <contributors>
+    <contributor>
       <name>Jens Deters</name>
       <url>https://github.com/Jerady</url>
       <roles><role>Original author</role></roles>
-    </developer>
-  </developers>
+    </contributor>
+  </contributors>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>

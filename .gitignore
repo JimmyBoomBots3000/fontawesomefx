@@ -22,3 +22,5 @@
 !/.env.example
 /settings.xml
 /.mvn/settings.xml
+# Private maintainer release wrapper
+/release
