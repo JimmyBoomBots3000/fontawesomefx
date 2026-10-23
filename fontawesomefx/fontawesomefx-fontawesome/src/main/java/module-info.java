@@ -9,6 +9,7 @@ module de.jensd.fx.fontawesomefx.fontawesome {
 
     exports de.jensd.fx.glyphs.fontawesome;
     exports de.jensd.fx.glyphs.fontawesome.demo;
+    exports io.github.jimmyboombots3000.fontawesomefx.viewer;
     exports de.jensd.fx.glyphs.fontawesome.utils;
 
 }

@@ -1,0 +1,17 @@
+# Build, automation, and release controls require the repository owner's review.
+# Enforced when the default-branch ruleset requires code-owner approval.
+/pom.xml @JimmyBoomBots3000
+/fontawesomefx/**/pom.xml @JimmyBoomBots3000
+/.mvn/ @JimmyBoomBots3000
+/mvnw @JimmyBoomBots3000
+/mvnw.cmd @JimmyBoomBots3000
+/.github/ @JimmyBoomBots3000
+/.gitignore @JimmyBoomBots3000
+/scripts/ @JimmyBoomBots3000
+# Contribution and licensing policy also require the owner's review.
+/CONTRIBUTING.md @JimmyBoomBots3000
+/LICENSE @JimmyBoomBots3000
+/NOTICE @JimmyBoomBots3000
+/THIRD-PARTY-NOTICES.md @JimmyBoomBots3000
+/licenses/ @JimmyBoomBots3000
+/fontawesomefx/fontawesomefx-fontawesome/src/main/fontawesome/ @JimmyBoomBots3000

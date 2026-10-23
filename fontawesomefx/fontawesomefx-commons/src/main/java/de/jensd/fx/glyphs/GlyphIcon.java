@@ -14,6 +14,7 @@
  * the License.
  *
  */
+// Modified in this fork to update font faces when glyphs change and preserve styles.
 package de.jensd.fx.glyphs;
 
 import javafx.css.*;
@@ -158,9 +159,38 @@ public abstract class GlyphIcon<T extends Enum<T> & GlyphIcons> extends Text {
     abstract public T getDefaultGlyph();
 
     private void updateSize() {
-        Font f = new Font(getFont().getFamily(), getGlyphSize().doubleValue());
-        setFont(f);
-        setGlyphStyle(String.format("-fx-font-family: %s; -fx-font-size: %s;", getGlyphFontFamily(), getGlyphSize().doubleValue()));
+        setFont(new Font(fontName(getGlyphFontFamily()), getGlyphSize().doubleValue()));
+        updateFontStyle(true);
+    }
+
+    // Historical icon packs sometimes return a CSS-quoted family name.
+    static String fontName(String family) {
+        if (family != null && family.length() >= 2
+                && (family.charAt(0) == '\'' || family.charAt(0) == '"')
+                && family.charAt(0) == family.charAt(family.length() - 1)) {
+            return family.substring(1, family.length() - 1);
+        }
+        return family;
+    }
+
+    static String quoteFontFamily(String family) {
+        return "'" + fontName(family).replace("\\", "\\\\").replace("'", "\\'") + "'";
+    }
+
+    private void updateFontStyle(boolean includeSize) {
+        // Replace font declarations rather than growing CSS on every resize.
+        String style = getStyle().replaceAll("(?i)-fx-font-family\\s*:[^;]*;?", "");
+        if (includeSize) {
+            style = style.replaceAll("(?i)-fx-font-size\\s*:[^;]*;?", "");
+        }
+        if (!style.isEmpty() && !style.endsWith(";")) {
+            style += ";";
+        }
+        style += "-fx-font-family: " + quoteFontFamily(getGlyphFontFamily()) + ";";
+        if (includeSize) {
+            style += " -fx-font-size: " + getGlyphSize().doubleValue() + ";";
+        }
+        glyphStyleProperty().setValue(style);
     }
 
     void updateIcon() {
@@ -171,7 +201,11 @@ public abstract class GlyphIcon<T extends Enum<T> & GlyphIcons> extends Text {
             String msg = String.format("Icon '%s' not found. Using '%s' (default) instead", getGlyphName(), getDefaultGlyph());
             Logger.getLogger(GlyphIcon.class.getName()).log(Level.SEVERE, msg);
         }
-        setText(icon.unicode());
+        glyphFontFamily = icon.fontFamily();
+        unicode = icon.unicode();
+        setFont(new Font(fontName(glyphFontFamily), getFont().getSize()));
+        updateFontStyle(false);
+        setText(unicode);
     }
 
     private void updateStyle() {

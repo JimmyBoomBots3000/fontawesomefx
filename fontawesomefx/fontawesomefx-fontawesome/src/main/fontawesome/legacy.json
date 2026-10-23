@@ -1,0 +1,3138 @@
+{
+  "FA_500PX": [
+    "500px",
+    "brands"
+  ],
+  "ADDRESS_BOOK": [
+    "address-book",
+    "solid"
+  ],
+  "ADDRESS_BOOK_ALT": [
+    "address-book",
+    "regular"
+  ],
+  "ADDRESS_CARD": [
+    "address-card",
+    "solid"
+  ],
+  "ADDRESS_CARD_ALT": [
+    "address-card",
+    "regular"
+  ],
+  "ADJUST": [
+    "circle-half-stroke",
+    "solid"
+  ],
+  "ADN": [
+    "adn",
+    "brands"
+  ],
+  "ALIGN_CENTER": [
+    "align-center",
+    "solid"
+  ],
+  "ALIGN_JUSTIFY": [
+    "align-justify",
+    "solid"
+  ],
+  "ALIGN_LEFT": [
+    "align-left",
+    "solid"
+  ],
+  "ALIGN_RIGHT": [
+    "align-right",
+    "solid"
+  ],
+  "AMAZON": [
+    "amazon",
+    "brands"
+  ],
+  "AMBULANCE": [
+    "truck-medical",
+    "solid"
+  ],
+  "AMERICAN_SIGN_LANGUAGE_INTERPRETING": [
+    "hands-asl-interpreting",
+    "solid"
+  ],
+  "ANCHOR": [
+    "anchor",
+    "solid"
+  ],
+  "ANDROID": [
+    "android",
+    "brands"
+  ],
+  "ANGELLIST": [
+    "angellist",
+    "brands"
+  ],
+  "ANGLE_DOUBLE_DOWN": [
+    "angles-down",
+    "solid"
+  ],
+  "ANGLE_DOUBLE_LEFT": [
+    "angles-left",
+    "solid"
+  ],
+  "ANGLE_DOUBLE_RIGHT": [
+    "angles-right",
+    "solid"
+  ],
+  "ANGLE_DOUBLE_UP": [
+    "angles-up",
+    "solid"
+  ],
+  "ANGLE_DOWN": [
+    "angle-down",
+    "solid"
+  ],
+  "ANGLE_LEFT": [
+    "angle-left",
+    "solid"
+  ],
+  "ANGLE_RIGHT": [
+    "angle-right",
+    "solid"
+  ],
+  "ANGLE_UP": [
+    "angle-up",
+    "solid"
+  ],
+  "APPLE": [
+    "apple",
+    "brands"
+  ],
+  "ARCHIVE": [
+    "box-archive",
+    "solid"
+  ],
+  "AREA_CHART": [
+    "chart-area",
+    "solid"
+  ],
+  "ARROW_CIRCLE_DOWN": [
+    "circle-arrow-down",
+    "solid"
+  ],
+  "ARROW_CIRCLE_LEFT": [
+    "circle-arrow-left",
+    "solid"
+  ],
+  "ARROW_CIRCLE_ALT_DOWN": [
+    "circle-down",
+    "regular"
+  ],
+  "ARROW_CIRCLE_ALT_LEFT": [
+    "circle-left",
+    "regular"
+  ],
+  "ARROW_CIRCLE_ALT_RIGHT": [
+    "circle-right",
+    "regular"
+  ],
+  "ARROW_CIRCLE_ALT_UP": [
+    "circle-up",
+    "regular"
+  ],
+  "ARROW_CIRCLE_RIGHT": [
+    "circle-arrow-right",
+    "solid"
+  ],
+  "ARROW_CIRCLE_UP": [
+    "circle-arrow-up",
+    "solid"
+  ],
+  "ARROW_DOWN": [
+    "arrow-down",
+    "solid"
+  ],
+  "ARROW_LEFT": [
+    "arrow-left",
+    "solid"
+  ],
+  "ARROW_RIGHT": [
+    "arrow-right",
+    "solid"
+  ],
+  "ARROW_UP": [
+    "arrow-up",
+    "solid"
+  ],
+  "ARROWS": [
+    "up-down-left-right",
+    "solid"
+  ],
+  "ARROWS_ALT": [
+    "maximize",
+    "solid"
+  ],
+  "ARROWS_H": [
+    "left-right",
+    "solid"
+  ],
+  "ARROWS_V": [
+    "up-down",
+    "solid"
+  ],
+  "ASL_INTERPRETING": [
+    "hands-asl-interpreting",
+    "solid"
+  ],
+  "ASSISTIVE_LISTENING_SYSTEMS": [
+    "ear-listen",
+    "solid"
+  ],
+  "ASTERISK": [
+    "asterisk",
+    "solid"
+  ],
+  "AT": [
+    "at",
+    "solid"
+  ],
+  "AUDIO_DESCRIPTION": [
+    "audio-description",
+    "solid"
+  ],
+  "AUTOMOBILE": [
+    "car",
+    "solid"
+  ],
+  "BACKWARD": [
+    "backward",
+    "solid"
+  ],
+  "BALANCE_SCALE": [
+    "scale-balanced",
+    "solid"
+  ],
+  "BAN": [
+    "ban",
+    "solid"
+  ],
+  "BANDCAMP": [
+    "bandcamp",
+    "brands"
+  ],
+  "BANK": [
+    "building-columns",
+    "solid"
+  ],
+  "BAR_CHART": [
+    "chart-column",
+    "solid"
+  ],
+  "BAR_CHART_ALT": [
+    "chart-column",
+    "solid"
+  ],
+  "BARCODE": [
+    "barcode",
+    "solid"
+  ],
+  "BARS": [
+    "bars",
+    "solid"
+  ],
+  "BATH": [
+    "bath",
+    "solid"
+  ],
+  "BATHTUB": [
+    "bath",
+    "solid"
+  ],
+  "BATTERY": [
+    "battery-full",
+    "solid"
+  ],
+  "BATTERY_0": [
+    "battery-empty",
+    "solid"
+  ],
+  "BATTERY_1": [
+    "battery-quarter",
+    "solid"
+  ],
+  "BATTERY_2": [
+    "battery-half",
+    "solid"
+  ],
+  "BATTERY_3": [
+    "battery-three-quarters",
+    "solid"
+  ],
+  "BATTERY_4": [
+    "battery-full",
+    "solid"
+  ],
+  "BATTERY_EMPTY": [
+    "battery-empty",
+    "solid"
+  ],
+  "BATTERY_FULL": [
+    "battery-full",
+    "solid"
+  ],
+  "BATTERY_HALF": [
+    "battery-half",
+    "solid"
+  ],
+  "BATTERY_QUARTER": [
+    "battery-quarter",
+    "solid"
+  ],
+  "BATTERY_THREE_QUARTERS": [
+    "battery-three-quarters",
+    "solid"
+  ],
+  "BED": [
+    "bed",
+    "solid"
+  ],
+  "BEER": [
+    "beer-mug-empty",
+    "solid"
+  ],
+  "BEHANCE": [
+    "behance",
+    "brands"
+  ],
+  "BEHANCE_SQUARE": [
+    "square-behance",
+    "brands"
+  ],
+  "BELL": [
+    "bell",
+    "solid"
+  ],
+  "BELL_ALT": [
+    "bell",
+    "regular"
+  ],
+  "BELL_SLASH": [
+    "bell-slash",
+    "solid"
+  ],
+  "BELL_SLASH_ALT": [
+    "bell-slash",
+    "regular"
+  ],
+  "BICYCLE": [
+    "bicycle",
+    "solid"
+  ],
+  "BINOCULARS": [
+    "binoculars",
+    "solid"
+  ],
+  "BIRTHDAY_CAKE": [
+    "cake-candles",
+    "solid"
+  ],
+  "BITBUCKET": [
+    "bitbucket",
+    "brands"
+  ],
+  "BITBUCKET_SQUARE": [
+    "bitbucket",
+    "brands"
+  ],
+  "BITCOIN": [
+    "btc",
+    "brands"
+  ],
+  "BLACK_TIE": [
+    "black-tie",
+    "brands"
+  ],
+  "BLIND": [
+    "person-walking-with-cane",
+    "solid"
+  ],
+  "BLUETOOTH": [
+    "bluetooth",
+    "brands"
+  ],
+  "BLUETOOTH_B": [
+    "bluetooth-b",
+    "brands"
+  ],
+  "BOLD": [
+    "bold",
+    "solid"
+  ],
+  "BOLT": [
+    "bolt",
+    "solid"
+  ],
+  "BOMB": [
+    "bomb",
+    "solid"
+  ],
+  "BOOK": [
+    "book",
+    "solid"
+  ],
+  "BOOKMARK": [
+    "bookmark",
+    "solid"
+  ],
+  "BOOKMARK_ALT": [
+    "bookmark",
+    "regular"
+  ],
+  "BRAILLE": [
+    "braille",
+    "solid"
+  ],
+  "BRIEFCASE": [
+    "briefcase",
+    "solid"
+  ],
+  "BTC": [
+    "btc",
+    "brands"
+  ],
+  "BUG": [
+    "bug",
+    "solid"
+  ],
+  "BUILDING": [
+    "building",
+    "solid"
+  ],
+  "BUILDING_ALT": [
+    "building",
+    "regular"
+  ],
+  "BULLHORN": [
+    "bullhorn",
+    "solid"
+  ],
+  "BULLSEYE": [
+    "bullseye",
+    "solid"
+  ],
+  "BUS": [
+    "bus",
+    "solid"
+  ],
+  "BUYSELLADS": [
+    "buysellads",
+    "brands"
+  ],
+  "CAB": [
+    "taxi",
+    "solid"
+  ],
+  "CALCULATOR": [
+    "calculator",
+    "solid"
+  ],
+  "CALENDAR": [
+    "calendar-days",
+    "solid"
+  ],
+  "CALENDAR_CHECK_ALT": [
+    "calendar-check",
+    "regular"
+  ],
+  "CALENDAR_MINUS_ALT": [
+    "calendar-minus",
+    "regular"
+  ],
+  "CALENDAR_ALT": [
+    "calendar",
+    "regular"
+  ],
+  "CALENDAR_PLUS_ALT": [
+    "calendar-plus",
+    "regular"
+  ],
+  "CALENDAR_TIMES_ALT": [
+    "calendar-xmark",
+    "regular"
+  ],
+  "CAMERA": [
+    "camera",
+    "solid"
+  ],
+  "CAMERA_RETRO": [
+    "camera-retro",
+    "solid"
+  ],
+  "CAR": [
+    "car",
+    "solid"
+  ],
+  "CARET_DOWN": [
+    "caret-down",
+    "solid"
+  ],
+  "CARET_LEFT": [
+    "caret-left",
+    "solid"
+  ],
+  "CARET_RIGHT": [
+    "caret-right",
+    "solid"
+  ],
+  "CARET_SQUARE_ALT_DOWN": [
+    "square-caret-down",
+    "regular"
+  ],
+  "CARET_SQUARE_ALT_LEFT": [
+    "square-caret-left",
+    "regular"
+  ],
+  "CARET_SQUARE_ALT_RIGHT": [
+    "square-caret-right",
+    "regular"
+  ],
+  "CARET_SQUARE_ALT_UP": [
+    "square-caret-up",
+    "regular"
+  ],
+  "CARET_UP": [
+    "caret-up",
+    "solid"
+  ],
+  "CART_ARROW_DOWN": [
+    "cart-arrow-down",
+    "solid"
+  ],
+  "CART_PLUS": [
+    "cart-plus",
+    "solid"
+  ],
+  "CC": [
+    "closed-captioning",
+    "regular"
+  ],
+  "CC_AMEX": [
+    "cc-amex",
+    "brands"
+  ],
+  "CC_DINERS_CLUB": [
+    "cc-diners-club",
+    "brands"
+  ],
+  "CC_DISCOVER": [
+    "cc-discover",
+    "brands"
+  ],
+  "CC_JCB": [
+    "cc-jcb",
+    "brands"
+  ],
+  "CC_MASTERCARD": [
+    "cc-mastercard",
+    "brands"
+  ],
+  "CC_PAYPAL": [
+    "cc-paypal",
+    "brands"
+  ],
+  "CC_STRIPE": [
+    "cc-stripe",
+    "brands"
+  ],
+  "CC_VISA": [
+    "cc-visa",
+    "brands"
+  ],
+  "CERTIFICATE": [
+    "certificate",
+    "solid"
+  ],
+  "CHAIN": [
+    "link",
+    "solid"
+  ],
+  "CHAIN_BROKEN": [
+    "link-slash",
+    "solid"
+  ],
+  "CHECK": [
+    "check",
+    "solid"
+  ],
+  "CHECK_CIRCLE": [
+    "circle-check",
+    "solid"
+  ],
+  "CHECK_CIRCLE_ALT": [
+    "circle-check",
+    "regular"
+  ],
+  "CHECK_SQUARE": [
+    "square-check",
+    "solid"
+  ],
+  "CHECK_SQUARE_ALT": [
+    "square-check",
+    "regular"
+  ],
+  "CHEVRON_CIRCLE_DOWN": [
+    "circle-chevron-down",
+    "solid"
+  ],
+  "CHEVRON_CIRCLE_LEFT": [
+    "circle-chevron-left",
+    "solid"
+  ],
+  "CHEVRON_CIRCLE_RIGHT": [
+    "circle-chevron-right",
+    "solid"
+  ],
+  "CHEVRON_CIRCLE_UP": [
+    "circle-chevron-up",
+    "solid"
+  ],
+  "CHEVRON_DOWN": [
+    "chevron-down",
+    "solid"
+  ],
+  "CHEVRON_LEFT": [
+    "chevron-left",
+    "solid"
+  ],
+  "CHEVRON_RIGHT": [
+    "chevron-right",
+    "solid"
+  ],
+  "CHEVRON_UP": [
+    "chevron-up",
+    "solid"
+  ],
+  "CHILD": [
+    "child",
+    "solid"
+  ],
+  "CHROME": [
+    "chrome",
+    "brands"
+  ],
+  "CIRCLE": [
+    "circle",
+    "solid"
+  ],
+  "CIRCLE_ALT": [
+    "circle",
+    "regular"
+  ],
+  "CIRCLE_ALT_NOTCH": [
+    "circle-notch",
+    "solid"
+  ],
+  "CIRCLE_THIN": [
+    "circle",
+    "regular"
+  ],
+  "CLIPBOARD": [
+    "paste",
+    "solid"
+  ],
+  "CLOCK_ALT": [
+    "clock",
+    "regular"
+  ],
+  "CLONE": [
+    "clone",
+    "regular"
+  ],
+  "CLOSE": [
+    "xmark",
+    "solid"
+  ],
+  "CLOUD": [
+    "cloud",
+    "solid"
+  ],
+  "CLOUD_DOWNLOAD": [
+    "cloud-arrow-down",
+    "solid"
+  ],
+  "CLOUD_UPLOAD": [
+    "cloud-arrow-up",
+    "solid"
+  ],
+  "CNY": [
+    "yen-sign",
+    "solid"
+  ],
+  "CODE": [
+    "code",
+    "solid"
+  ],
+  "CODE_FORK": [
+    "code-branch",
+    "solid"
+  ],
+  "CODEPEN": [
+    "codepen",
+    "brands"
+  ],
+  "CODIEPIE": [
+    "codiepie",
+    "brands"
+  ],
+  "COFFEE": [
+    "mug-saucer",
+    "solid"
+  ],
+  "COG": [
+    "gear",
+    "solid"
+  ],
+  "COGS": [
+    "gears",
+    "solid"
+  ],
+  "COLUMNS": [
+    "table-columns",
+    "solid"
+  ],
+  "COMMENT": [
+    "comment",
+    "solid"
+  ],
+  "COMMENT_ALT": [
+    "comment",
+    "regular"
+  ],
+  "COMMENTING": [
+    "comment-dots",
+    "solid"
+  ],
+  "COMMENTING_ALT": [
+    "comment-dots",
+    "regular"
+  ],
+  "COMMENTS": [
+    "comments",
+    "solid"
+  ],
+  "COMMENTS_ALT": [
+    "comments",
+    "regular"
+  ],
+  "COMPASS": [
+    "compass",
+    "regular"
+  ],
+  "COMPRESS": [
+    "down-left-and-up-right-to-center",
+    "solid"
+  ],
+  "CONNECTDEVELOP": [
+    "connectdevelop",
+    "brands"
+  ],
+  "CONTAO": [
+    "contao",
+    "brands"
+  ],
+  "COPY": [
+    "copy",
+    "solid"
+  ],
+  "COPYRIGHT": [
+    "copyright",
+    "regular"
+  ],
+  "CREATIVE_COMMONS": [
+    "creative-commons",
+    "brands"
+  ],
+  "CREDIT_CARD": [
+    "credit-card",
+    "regular"
+  ],
+  "CREDIT_CARD_ALT": [
+    "credit-card",
+    "solid"
+  ],
+  "CROP": [
+    "crop",
+    "solid"
+  ],
+  "CROSSHAIRS": [
+    "crosshairs",
+    "solid"
+  ],
+  "CSS3": [
+    "css3",
+    "brands"
+  ],
+  "CUBE": [
+    "cube",
+    "solid"
+  ],
+  "CUBES": [
+    "cubes",
+    "solid"
+  ],
+  "CUT": [
+    "scissors",
+    "solid"
+  ],
+  "CUTLERY": [
+    "utensils",
+    "solid"
+  ],
+  "DASHBOARD": [
+    "gauge-high",
+    "solid"
+  ],
+  "DASHCUBE": [
+    "dashcube",
+    "brands"
+  ],
+  "DATABASE": [
+    "database",
+    "solid"
+  ],
+  "DEAF": [
+    "ear-deaf",
+    "solid"
+  ],
+  "DEAFNESS": [
+    "ear-deaf",
+    "solid"
+  ],
+  "DEDENT": [
+    "outdent",
+    "solid"
+  ],
+  "DELICIOUS": [
+    "delicious",
+    "brands"
+  ],
+  "DESKTOP": [
+    "desktop",
+    "solid"
+  ],
+  "DEVIANTART": [
+    "deviantart",
+    "brands"
+  ],
+  "DIAMOND": [
+    "gem",
+    "regular"
+  ],
+  "DIGG": [
+    "digg",
+    "brands"
+  ],
+  "DOLLAR": [
+    "dollar-sign",
+    "solid"
+  ],
+  "DOT_CIRCLE_ALT": [
+    "circle-dot",
+    "regular"
+  ],
+  "DOWNLOAD": [
+    "download",
+    "solid"
+  ],
+  "DRIBBBLE": [
+    "dribbble",
+    "brands"
+  ],
+  "DRIVERS_LICENSE": [
+    "id-card",
+    "solid"
+  ],
+  "DRIVERS_LICENSE_ALT": [
+    "id-card",
+    "regular"
+  ],
+  "DROPBOX": [
+    "dropbox",
+    "brands"
+  ],
+  "DRUPAL": [
+    "drupal",
+    "brands"
+  ],
+  "EDGE": [
+    "edge",
+    "brands"
+  ],
+  "EDIT": [
+    "pen-to-square",
+    "regular"
+  ],
+  "EERCAST": [
+    "sellcast",
+    "brands"
+  ],
+  "EJECT": [
+    "eject",
+    "solid"
+  ],
+  "ELLIPSIS_H": [
+    "ellipsis",
+    "solid"
+  ],
+  "ELLIPSIS_V": [
+    "ellipsis-vertical",
+    "solid"
+  ],
+  "EMPIRE": [
+    "empire",
+    "brands"
+  ],
+  "ENVELOPE": [
+    "envelope",
+    "solid"
+  ],
+  "ENVELOPE_ALT": [
+    "envelope",
+    "regular"
+  ],
+  "ENVELOPE_OPEN": [
+    "envelope-open",
+    "solid"
+  ],
+  "ENVELOPE_OPEN_ALT": [
+    "envelope-open",
+    "regular"
+  ],
+  "ENVELOPE_SQUARE": [
+    "square-envelope",
+    "solid"
+  ],
+  "ENVIRA": [
+    "envira",
+    "brands"
+  ],
+  "ERASER": [
+    "eraser",
+    "solid"
+  ],
+  "ETSY": [
+    "etsy",
+    "brands"
+  ],
+  "EUR": [
+    "euro-sign",
+    "solid"
+  ],
+  "EURO": [
+    "euro-sign",
+    "solid"
+  ],
+  "EXCHANGE": [
+    "right-left",
+    "solid"
+  ],
+  "EXCLAMATION": [
+    "exclamation",
+    "solid"
+  ],
+  "EXCLAMATION_CIRCLE": [
+    "circle-exclamation",
+    "solid"
+  ],
+  "EXCLAMATION_TRIANGLE": [
+    "triangle-exclamation",
+    "solid"
+  ],
+  "EXPAND": [
+    "up-right-and-down-left-from-center",
+    "solid"
+  ],
+  "EXPEDITEDSSL": [
+    "expeditedssl",
+    "brands"
+  ],
+  "EXTERNAL_LINK": [
+    "up-right-from-square",
+    "solid"
+  ],
+  "EXTERNAL_LINK_SQUARE": [
+    "square-up-right",
+    "solid"
+  ],
+  "EYE": [
+    "eye",
+    "regular"
+  ],
+  "EYE_SLASH": [
+    "eye-slash",
+    "regular"
+  ],
+  "EYEDROPPER": [
+    "eye-dropper",
+    "solid"
+  ],
+  "FA": [
+    "font-awesome",
+    "brands"
+  ],
+  "FACEBOOK": [
+    "facebook-f",
+    "brands"
+  ],
+  "FACEBOOK_F": [
+    "facebook-f",
+    "brands"
+  ],
+  "FACEBOOK_OFFICIAL": [
+    "facebook",
+    "brands"
+  ],
+  "FACEBOOK_SQUARE": [
+    "square-facebook",
+    "brands"
+  ],
+  "FAST_BACKWARD": [
+    "backward-fast",
+    "solid"
+  ],
+  "FAST_FORWARD": [
+    "forward-fast",
+    "solid"
+  ],
+  "FAX": [
+    "fax",
+    "solid"
+  ],
+  "FEED": [
+    "rss",
+    "solid"
+  ],
+  "FEMALE": [
+    "person-dress",
+    "solid"
+  ],
+  "FIGHTER_JET": [
+    "jet-fighter",
+    "solid"
+  ],
+  "FILE": [
+    "file",
+    "solid"
+  ],
+  "FILE_ARCHIVE_ALT": [
+    "file-zipper",
+    "regular"
+  ],
+  "FILE_AUDIO_ALT": [
+    "file-audio",
+    "regular"
+  ],
+  "FILE_CODE_ALT": [
+    "file-code",
+    "regular"
+  ],
+  "FILE_EXCEL_ALT": [
+    "file-excel",
+    "regular"
+  ],
+  "FILE_IMAGE_ALT": [
+    "file-image",
+    "regular"
+  ],
+  "FILE_MOVIE_ALT": [
+    "file-video",
+    "regular"
+  ],
+  "FILE_ALT": [
+    "file",
+    "regular"
+  ],
+  "FILE_PDF_ALT": [
+    "file-pdf",
+    "regular"
+  ],
+  "FILE_PHOTO_ALT": [
+    "file-image",
+    "regular"
+  ],
+  "FILE_PICTURE_ALT": [
+    "file-image",
+    "regular"
+  ],
+  "FILE_POWERPOINT_ALT": [
+    "file-powerpoint",
+    "regular"
+  ],
+  "FILE_SOUND_ALT": [
+    "file-audio",
+    "regular"
+  ],
+  "FILE_TEXT": [
+    "file-lines",
+    "solid"
+  ],
+  "FILE_TEXT_ALT": [
+    "file-lines",
+    "regular"
+  ],
+  "FILE_VIDEO_ALT": [
+    "file-video",
+    "regular"
+  ],
+  "FILE_WORD_ALT": [
+    "file-word",
+    "regular"
+  ],
+  "FILE_ZIP_ALT": [
+    "file-zipper",
+    "regular"
+  ],
+  "FILES_ALT": [
+    "copy",
+    "solid"
+  ],
+  "FILM": [
+    "film",
+    "solid"
+  ],
+  "FILTER": [
+    "filter",
+    "solid"
+  ],
+  "FIRE": [
+    "fire",
+    "solid"
+  ],
+  "FIRE_EXTINGUISHER": [
+    "fire-extinguisher",
+    "solid"
+  ],
+  "FIREFOX": [
+    "firefox",
+    "brands"
+  ],
+  "FIRST_ORDER": [
+    "first-order",
+    "brands"
+  ],
+  "FLAG": [
+    "flag",
+    "solid"
+  ],
+  "FLAG_CHECKERED": [
+    "flag-checkered",
+    "solid"
+  ],
+  "FLAG_ALT": [
+    "flag",
+    "regular"
+  ],
+  "FLASH": [
+    "bolt",
+    "solid"
+  ],
+  "FLASK": [
+    "flask",
+    "solid"
+  ],
+  "FLICKR": [
+    "flickr",
+    "brands"
+  ],
+  "FLOPPY_ALT": [
+    "floppy-disk",
+    "regular"
+  ],
+  "FOLDER": [
+    "folder",
+    "solid"
+  ],
+  "FOLDER_ALT": [
+    "folder",
+    "regular"
+  ],
+  "FOLDER_OPEN": [
+    "folder-open",
+    "solid"
+  ],
+  "FOLDER_OPEN_ALT": [
+    "folder-open",
+    "regular"
+  ],
+  "FONT": [
+    "font",
+    "solid"
+  ],
+  "FONT_AWESOME": [
+    "font-awesome",
+    "brands"
+  ],
+  "FONTICONS": [
+    "fonticons",
+    "brands"
+  ],
+  "FORT_AWESOME": [
+    "fort-awesome",
+    "brands"
+  ],
+  "FORUMBEE": [
+    "forumbee",
+    "brands"
+  ],
+  "FORWARD": [
+    "forward",
+    "solid"
+  ],
+  "FOURSQUARE": [
+    "foursquare",
+    "brands"
+  ],
+  "FREE_CODE_CAMP": [
+    "free-code-camp",
+    "brands"
+  ],
+  "FROWN_ALT": [
+    "face-frown",
+    "regular"
+  ],
+  "FUTBOL_ALT": [
+    "futbol",
+    "regular"
+  ],
+  "GAMEPAD": [
+    "gamepad",
+    "solid"
+  ],
+  "GAVEL": [
+    "gavel",
+    "solid"
+  ],
+  "GBP": [
+    "sterling-sign",
+    "solid"
+  ],
+  "GE": [
+    "empire",
+    "brands"
+  ],
+  "GEAR": [
+    "gear",
+    "solid"
+  ],
+  "GEARS": [
+    "gears",
+    "solid"
+  ],
+  "GENDERLESS": [
+    "genderless",
+    "solid"
+  ],
+  "GET_POCKET": [
+    "get-pocket",
+    "brands"
+  ],
+  "GG": [
+    "gg",
+    "brands"
+  ],
+  "GG_CIRCLE": [
+    "gg-circle",
+    "brands"
+  ],
+  "GIFT": [
+    "gift",
+    "solid"
+  ],
+  "GIT": [
+    "git",
+    "brands"
+  ],
+  "GIT_SQUARE": [
+    "square-git",
+    "brands"
+  ],
+  "GITHUB": [
+    "github",
+    "brands"
+  ],
+  "GITHUB_ALT": [
+    "github-alt",
+    "brands"
+  ],
+  "GITHUB_SQUARE": [
+    "square-github",
+    "brands"
+  ],
+  "GITLAB": [
+    "gitlab",
+    "brands"
+  ],
+  "GITTIP": [
+    "gratipay",
+    "brands"
+  ],
+  "GLASS": [
+    "martini-glass-empty",
+    "solid"
+  ],
+  "GLIDE": [
+    "glide",
+    "brands"
+  ],
+  "GLIDE_G": [
+    "glide-g",
+    "brands"
+  ],
+  "GLOBE": [
+    "earth-americas",
+    "solid"
+  ],
+  "GOOGLE": [
+    "google",
+    "brands"
+  ],
+  "GOOGLE_PLUS": [
+    "google-plus-g",
+    "brands"
+  ],
+  "GOOGLE_PLUS_CIRCLE": [
+    "google-plus",
+    "brands"
+  ],
+  "GOOGLE_PLUS_OFFICIAL": [
+    "google-plus",
+    "brands"
+  ],
+  "GOOGLE_PLUS_SQUARE": [
+    "square-google-plus",
+    "brands"
+  ],
+  "GOOGLE_WALLET": [
+    "google-wallet",
+    "brands"
+  ],
+  "GRADUATION_CAP": [
+    "graduation-cap",
+    "solid"
+  ],
+  "GRATIPAY": [
+    "gratipay",
+    "brands"
+  ],
+  "GRAV": [
+    "grav",
+    "brands"
+  ],
+  "GROUP": [
+    "users",
+    "solid"
+  ],
+  "H_SQUARE": [
+    "square-h",
+    "solid"
+  ],
+  "HACKER_NEWS": [
+    "hacker-news",
+    "brands"
+  ],
+  "HAND_GRAB_ALT": [
+    "hand-back-fist",
+    "regular"
+  ],
+  "HAND_LIZARD_ALT": [
+    "hand-lizard",
+    "regular"
+  ],
+  "HAND_ALT_DOWN": [
+    "hand-point-down",
+    "regular"
+  ],
+  "HAND_ALT_LEFT": [
+    "hand-point-left",
+    "regular"
+  ],
+  "HAND_ALT_RIGHT": [
+    "hand-point-right",
+    "regular"
+  ],
+  "HAND_ALT_UP": [
+    "hand-point-up",
+    "regular"
+  ],
+  "HAND_PAPER_ALT": [
+    "hand",
+    "regular"
+  ],
+  "HAND_PEACE_ALT": [
+    "hand-peace",
+    "regular"
+  ],
+  "HAND_POINTER_ALT": [
+    "hand-pointer",
+    "regular"
+  ],
+  "HAND_ROCK_ALT": [
+    "hand-back-fist",
+    "regular"
+  ],
+  "HAND_SCISSORS_ALT": [
+    "hand-scissors",
+    "regular"
+  ],
+  "HAND_SPOCK_ALT": [
+    "hand-spock",
+    "regular"
+  ],
+  "HAND_STOP_ALT": [
+    "hand",
+    "regular"
+  ],
+  "HANDSHAKE_ALT": [
+    "handshake",
+    "regular"
+  ],
+  "HARD_OF_HEARING": [
+    "ear-deaf",
+    "solid"
+  ],
+  "HASHTAG": [
+    "hashtag",
+    "solid"
+  ],
+  "HDD_ALT": [
+    "hard-drive",
+    "regular"
+  ],
+  "HEADER": [
+    "heading",
+    "solid"
+  ],
+  "HEADPHONES": [
+    "headphones",
+    "solid"
+  ],
+  "HEART": [
+    "heart",
+    "solid"
+  ],
+  "HEART_ALT": [
+    "heart",
+    "regular"
+  ],
+  "HEARTBEAT": [
+    "heart-pulse",
+    "solid"
+  ],
+  "HISTORY": [
+    "clock-rotate-left",
+    "solid"
+  ],
+  "HOME": [
+    "house",
+    "solid"
+  ],
+  "HOSPITAL_ALT": [
+    "hospital",
+    "regular"
+  ],
+  "HOTEL": [
+    "bed",
+    "solid"
+  ],
+  "HOURGLASS": [
+    "hourglass",
+    "solid"
+  ],
+  "HOURGLASS_1": [
+    "hourglass-start",
+    "solid"
+  ],
+  "HOURGLASS_2": [
+    "hourglass-half",
+    "solid"
+  ],
+  "HOURGLASS_3": [
+    "hourglass-end",
+    "solid"
+  ],
+  "HOURGLASS_END": [
+    "hourglass-end",
+    "solid"
+  ],
+  "HOURGLASS_HALF": [
+    "hourglass-half",
+    "solid"
+  ],
+  "HOURGLASS_ALT": [
+    "hourglass",
+    "solid"
+  ],
+  "HOURGLASS_START": [
+    "hourglass-start",
+    "solid"
+  ],
+  "HOUZZ": [
+    "houzz",
+    "brands"
+  ],
+  "HTML5": [
+    "html5",
+    "brands"
+  ],
+  "I_CURSOR": [
+    "i-cursor",
+    "solid"
+  ],
+  "ID_BADGE": [
+    "id-badge",
+    "regular"
+  ],
+  "ID_CARD": [
+    "id-card",
+    "solid"
+  ],
+  "ID_CARD_ALT": [
+    "id-card",
+    "regular"
+  ],
+  "ILS": [
+    "shekel-sign",
+    "solid"
+  ],
+  "IMAGE": [
+    "image",
+    "regular"
+  ],
+  "IMDB": [
+    "imdb",
+    "brands"
+  ],
+  "INBOX": [
+    "inbox",
+    "solid"
+  ],
+  "INDENT": [
+    "indent",
+    "solid"
+  ],
+  "INDUSTRY": [
+    "industry",
+    "solid"
+  ],
+  "INFO": [
+    "info",
+    "solid"
+  ],
+  "INFO_CIRCLE": [
+    "circle-info",
+    "solid"
+  ],
+  "INR": [
+    "indian-rupee-sign",
+    "solid"
+  ],
+  "INSTAGRAM": [
+    "instagram",
+    "brands"
+  ],
+  "INSTITUTION": [
+    "building-columns",
+    "solid"
+  ],
+  "INTERNET_EXPLORER": [
+    "internet-explorer",
+    "brands"
+  ],
+  "INTERSEX": [
+    "mars-and-venus",
+    "solid"
+  ],
+  "IOXHOST": [
+    "ioxhost",
+    "brands"
+  ],
+  "ITALIC": [
+    "italic",
+    "solid"
+  ],
+  "JOOMLA": [
+    "joomla",
+    "brands"
+  ],
+  "JPY": [
+    "yen-sign",
+    "solid"
+  ],
+  "JSFIDDLE": [
+    "jsfiddle",
+    "brands"
+  ],
+  "KEY": [
+    "key",
+    "solid"
+  ],
+  "KEYBOARD_ALT": [
+    "keyboard",
+    "regular"
+  ],
+  "KRW": [
+    "won-sign",
+    "solid"
+  ],
+  "LANGUAGE": [
+    "language",
+    "solid"
+  ],
+  "LAPTOP": [
+    "laptop",
+    "solid"
+  ],
+  "LASTFM": [
+    "lastfm",
+    "brands"
+  ],
+  "LASTFM_SQUARE": [
+    "square-lastfm",
+    "brands"
+  ],
+  "LEAF": [
+    "leaf",
+    "solid"
+  ],
+  "LEANPUB": [
+    "leanpub",
+    "brands"
+  ],
+  "LEGAL": [
+    "gavel",
+    "solid"
+  ],
+  "LEMON_ALT": [
+    "lemon",
+    "regular"
+  ],
+  "LEVEL_DOWN": [
+    "turn-down",
+    "solid"
+  ],
+  "LEVEL_UP": [
+    "turn-up",
+    "solid"
+  ],
+  "LIFE_BOUY": [
+    "life-ring",
+    "solid"
+  ],
+  "LIFE_BUOY": [
+    "life-ring",
+    "solid"
+  ],
+  "LIFE_RING": [
+    "life-ring",
+    "solid"
+  ],
+  "LIFE_SAVER": [
+    "life-ring",
+    "solid"
+  ],
+  "LIGHTBULB_ALT": [
+    "lightbulb",
+    "regular"
+  ],
+  "LINE_CHART": [
+    "chart-line",
+    "solid"
+  ],
+  "LINK": [
+    "link",
+    "solid"
+  ],
+  "LINKEDIN": [
+    "linkedin-in",
+    "brands"
+  ],
+  "LINKEDIN_SQUARE": [
+    "linkedin",
+    "brands"
+  ],
+  "LINODE": [
+    "linode",
+    "brands"
+  ],
+  "LINUX": [
+    "linux",
+    "brands"
+  ],
+  "LIST": [
+    "list",
+    "solid"
+  ],
+  "LIST_ALT": [
+    "rectangle-list",
+    "regular"
+  ],
+  "LIST_OL": [
+    "list-ol",
+    "solid"
+  ],
+  "LIST_UL": [
+    "list-ul",
+    "solid"
+  ],
+  "LOCATION_ARROW": [
+    "location-arrow",
+    "solid"
+  ],
+  "LOCK": [
+    "lock",
+    "solid"
+  ],
+  "LONG_ARROW_DOWN": [
+    "down-long",
+    "solid"
+  ],
+  "LONG_ARROW_LEFT": [
+    "left-long",
+    "solid"
+  ],
+  "LONG_ARROW_RIGHT": [
+    "right-long",
+    "solid"
+  ],
+  "LONG_ARROW_UP": [
+    "up-long",
+    "solid"
+  ],
+  "LOW_VISION": [
+    "eye-low-vision",
+    "solid"
+  ],
+  "MAGIC": [
+    "wand-magic-sparkles",
+    "solid"
+  ],
+  "MAGNET": [
+    "magnet",
+    "solid"
+  ],
+  "MAIL_FORWARD": [
+    "share",
+    "solid"
+  ],
+  "MAIL_REPLY": [
+    "reply",
+    "solid"
+  ],
+  "MAIL_REPLY_ALL": [
+    "reply-all",
+    "solid"
+  ],
+  "MALE": [
+    "person",
+    "solid"
+  ],
+  "MAP": [
+    "map",
+    "solid"
+  ],
+  "MAP_MARKER": [
+    "location-dot",
+    "solid"
+  ],
+  "MAP_ALT": [
+    "map",
+    "regular"
+  ],
+  "MAP_PIN": [
+    "map-pin",
+    "solid"
+  ],
+  "MAP_SIGNS": [
+    "signs-post",
+    "solid"
+  ],
+  "MARS": [
+    "mars",
+    "solid"
+  ],
+  "MARS_DOUBLE": [
+    "mars-double",
+    "solid"
+  ],
+  "MARS_STROKE": [
+    "mars-stroke",
+    "solid"
+  ],
+  "MARS_STROKE_H": [
+    "mars-stroke-right",
+    "solid"
+  ],
+  "MARS_STROKE_V": [
+    "mars-stroke-up",
+    "solid"
+  ],
+  "MAXCDN": [
+    "maxcdn",
+    "brands"
+  ],
+  "MEDIUM": [
+    "medium",
+    "brands"
+  ],
+  "MEDKIT": [
+    "suitcase-medical",
+    "solid"
+  ],
+  "MEETUP": [
+    "meetup",
+    "brands"
+  ],
+  "MEH_ALT": [
+    "face-meh",
+    "regular"
+  ],
+  "MERCURY": [
+    "mercury",
+    "solid"
+  ],
+  "MICROCHIP": [
+    "microchip",
+    "solid"
+  ],
+  "MICROPHONE": [
+    "microphone",
+    "solid"
+  ],
+  "MICROPHONE_SLASH": [
+    "microphone-slash",
+    "solid"
+  ],
+  "MINUS": [
+    "minus",
+    "solid"
+  ],
+  "MINUS_CIRCLE": [
+    "circle-minus",
+    "solid"
+  ],
+  "MINUS_SQUARE": [
+    "square-minus",
+    "solid"
+  ],
+  "MINUS_SQUARE_ALT": [
+    "square-minus",
+    "regular"
+  ],
+  "MIXCLOUD": [
+    "mixcloud",
+    "brands"
+  ],
+  "MOBILE": [
+    "mobile-screen-button",
+    "solid"
+  ],
+  "MOBILE_PHONE": [
+    "mobile-screen-button",
+    "solid"
+  ],
+  "MODX": [
+    "modx",
+    "brands"
+  ],
+  "MONEY": [
+    "money-bill-1",
+    "solid"
+  ],
+  "MOON_ALT": [
+    "moon",
+    "regular"
+  ],
+  "MORTAR_BOARD": [
+    "graduation-cap",
+    "solid"
+  ],
+  "MOTORCYCLE": [
+    "motorcycle",
+    "solid"
+  ],
+  "MOUSE_POINTER": [
+    "arrow-pointer",
+    "solid"
+  ],
+  "MUSIC": [
+    "music",
+    "solid"
+  ],
+  "NAVICON": [
+    "bars",
+    "solid"
+  ],
+  "NEUTER": [
+    "neuter",
+    "solid"
+  ],
+  "NEWSPAPER_ALT": [
+    "newspaper",
+    "regular"
+  ],
+  "OBJECT_GROUP": [
+    "object-group",
+    "regular"
+  ],
+  "OBJECT_UNGROUP": [
+    "object-ungroup",
+    "regular"
+  ],
+  "ODNOKLASSNIKI": [
+    "odnoklassniki",
+    "brands"
+  ],
+  "ODNOKLASSNIKI_SQUARE": [
+    "square-odnoklassniki",
+    "brands"
+  ],
+  "OPENCART": [
+    "opencart",
+    "brands"
+  ],
+  "OPENID": [
+    "openid",
+    "brands"
+  ],
+  "OPERA": [
+    "opera",
+    "brands"
+  ],
+  "OPTIN_MONSTER": [
+    "optin-monster",
+    "brands"
+  ],
+  "OUTDENT": [
+    "outdent",
+    "solid"
+  ],
+  "PAGELINES": [
+    "pagelines",
+    "brands"
+  ],
+  "PAINT_BRUSH": [
+    "paintbrush",
+    "solid"
+  ],
+  "PAPER_PLANE": [
+    "paper-plane",
+    "solid"
+  ],
+  "PAPER_PLANE_ALT": [
+    "paper-plane",
+    "regular"
+  ],
+  "PAPERCLIP": [
+    "paperclip",
+    "solid"
+  ],
+  "PARAGRAPH": [
+    "paragraph",
+    "solid"
+  ],
+  "PASTE": [
+    "paste",
+    "solid"
+  ],
+  "PAUSE": [
+    "pause",
+    "solid"
+  ],
+  "PAUSE_CIRCLE": [
+    "circle-pause",
+    "solid"
+  ],
+  "PAUSE_CIRCLE_ALT": [
+    "circle-pause",
+    "regular"
+  ],
+  "PAW": [
+    "paw",
+    "solid"
+  ],
+  "PAYPAL": [
+    "paypal",
+    "brands"
+  ],
+  "PENCIL": [
+    "pencil",
+    "solid"
+  ],
+  "PENCIL_SQUARE": [
+    "square-pen",
+    "solid"
+  ],
+  "PENCIL_SQUARE_ALT": [
+    "pen-to-square",
+    "regular"
+  ],
+  "PERCENT": [
+    "percent",
+    "solid"
+  ],
+  "PHONE": [
+    "phone",
+    "solid"
+  ],
+  "PHONE_SQUARE": [
+    "square-phone",
+    "solid"
+  ],
+  "PHOTO": [
+    "image",
+    "regular"
+  ],
+  "PICTURE_ALT": [
+    "image",
+    "regular"
+  ],
+  "PIE_CHART": [
+    "chart-pie",
+    "solid"
+  ],
+  "PIED_PIPER": [
+    "pied-piper",
+    "brands"
+  ],
+  "PIED_PIPER_ALT": [
+    "pied-piper-alt",
+    "brands"
+  ],
+  "PIED_PIPER_PP": [
+    "pied-piper-pp",
+    "brands"
+  ],
+  "PINTEREST": [
+    "pinterest",
+    "brands"
+  ],
+  "PINTEREST_P": [
+    "pinterest-p",
+    "brands"
+  ],
+  "PINTEREST_SQUARE": [
+    "square-pinterest",
+    "brands"
+  ],
+  "PLANE": [
+    "plane",
+    "solid"
+  ],
+  "PLAY": [
+    "play",
+    "solid"
+  ],
+  "PLAY_CIRCLE": [
+    "circle-play",
+    "solid"
+  ],
+  "PLAY_CIRCLE_ALT": [
+    "circle-play",
+    "regular"
+  ],
+  "PLUG": [
+    "plug",
+    "solid"
+  ],
+  "PLUS": [
+    "plus",
+    "solid"
+  ],
+  "PLUS_CIRCLE": [
+    "circle-plus",
+    "solid"
+  ],
+  "PLUS_SQUARE": [
+    "square-plus",
+    "solid"
+  ],
+  "PLUS_SQUARE_ALT": [
+    "square-plus",
+    "regular"
+  ],
+  "PODCAST": [
+    "podcast",
+    "solid"
+  ],
+  "POWER_OFF": [
+    "power-off",
+    "solid"
+  ],
+  "PRINT": [
+    "print",
+    "solid"
+  ],
+  "PRODUCT_HUNT": [
+    "product-hunt",
+    "brands"
+  ],
+  "PUZZLE_PIECE": [
+    "puzzle-piece",
+    "solid"
+  ],
+  "QQ": [
+    "qq",
+    "brands"
+  ],
+  "QRCODE": [
+    "qrcode",
+    "solid"
+  ],
+  "QUESTION": [
+    "question",
+    "solid"
+  ],
+  "QUESTION_CIRCLE": [
+    "circle-question",
+    "solid"
+  ],
+  "QUESTION_CIRCLE_ALT": [
+    "circle-question",
+    "regular"
+  ],
+  "QUORA": [
+    "quora",
+    "brands"
+  ],
+  "QUOTE_LEFT": [
+    "quote-left",
+    "solid"
+  ],
+  "QUOTE_RIGHT": [
+    "quote-right",
+    "solid"
+  ],
+  "RA": [
+    "rebel",
+    "brands"
+  ],
+  "RANDOM": [
+    "shuffle",
+    "solid"
+  ],
+  "RAVELRY": [
+    "ravelry",
+    "brands"
+  ],
+  "REBEL": [
+    "rebel",
+    "brands"
+  ],
+  "RECYCLE": [
+    "recycle",
+    "solid"
+  ],
+  "REDDIT": [
+    "reddit",
+    "brands"
+  ],
+  "REDDIT_ALIEN": [
+    "reddit-alien",
+    "brands"
+  ],
+  "REDDIT_SQUARE": [
+    "square-reddit",
+    "brands"
+  ],
+  "REFRESH": [
+    "arrows-rotate",
+    "solid"
+  ],
+  "REGISTERED": [
+    "registered",
+    "regular"
+  ],
+  "REMOVE": [
+    "xmark",
+    "solid"
+  ],
+  "RENREN": [
+    "renren",
+    "brands"
+  ],
+  "REORDER": [
+    "bars",
+    "solid"
+  ],
+  "REPEAT": [
+    "arrow-rotate-right",
+    "solid"
+  ],
+  "REPLY": [
+    "reply",
+    "solid"
+  ],
+  "REPLY_ALL": [
+    "reply-all",
+    "solid"
+  ],
+  "RESISTANCE": [
+    "rebel",
+    "brands"
+  ],
+  "RETWEET": [
+    "retweet",
+    "solid"
+  ],
+  "RMB": [
+    "yen-sign",
+    "solid"
+  ],
+  "ROAD": [
+    "road",
+    "solid"
+  ],
+  "ROCKET": [
+    "rocket",
+    "solid"
+  ],
+  "ROTATE_LEFT": [
+    "arrow-rotate-left",
+    "solid"
+  ],
+  "ROTATE_RIGHT": [
+    "arrow-rotate-right",
+    "solid"
+  ],
+  "ROUBLE": [
+    "ruble-sign",
+    "solid"
+  ],
+  "RSS": [
+    "rss",
+    "solid"
+  ],
+  "RSS_SQUARE": [
+    "square-rss",
+    "solid"
+  ],
+  "RUB": [
+    "ruble-sign",
+    "solid"
+  ],
+  "RUBLE": [
+    "ruble-sign",
+    "solid"
+  ],
+  "RUPEE": [
+    "indian-rupee-sign",
+    "solid"
+  ],
+  "S15": [
+    "bath",
+    "solid"
+  ],
+  "SAFARI": [
+    "safari",
+    "brands"
+  ],
+  "SAVE": [
+    "floppy-disk",
+    "regular"
+  ],
+  "SCISSORS": [
+    "scissors",
+    "solid"
+  ],
+  "SCRIBD": [
+    "scribd",
+    "brands"
+  ],
+  "SEARCH": [
+    "magnifying-glass",
+    "solid"
+  ],
+  "SEARCH_MINUS": [
+    "magnifying-glass-minus",
+    "solid"
+  ],
+  "SEARCH_PLUS": [
+    "magnifying-glass-plus",
+    "solid"
+  ],
+  "SELLSY": [
+    "sellsy",
+    "brands"
+  ],
+  "SEND": [
+    "paper-plane",
+    "solid"
+  ],
+  "SEND_ALT": [
+    "paper-plane",
+    "regular"
+  ],
+  "SERVER": [
+    "server",
+    "solid"
+  ],
+  "SHARE": [
+    "share",
+    "solid"
+  ],
+  "SHARE_ALT": [
+    "share-nodes",
+    "solid"
+  ],
+  "SHARE_ALT_SQUARE": [
+    "square-share-nodes",
+    "solid"
+  ],
+  "SHARE_SQUARE": [
+    "share-from-square",
+    "solid"
+  ],
+  "SHARE_SQUARE_ALT": [
+    "share-from-square",
+    "solid"
+  ],
+  "SHEKEL": [
+    "shekel-sign",
+    "solid"
+  ],
+  "SHEQEL": [
+    "shekel-sign",
+    "solid"
+  ],
+  "SHIELD": [
+    "shield",
+    "solid"
+  ],
+  "SHIP": [
+    "ship",
+    "solid"
+  ],
+  "SHIRTSINBULK": [
+    "shirtsinbulk",
+    "brands"
+  ],
+  "SHOPPING_BAG": [
+    "bag-shopping",
+    "solid"
+  ],
+  "SHOPPING_BASKET": [
+    "basket-shopping",
+    "solid"
+  ],
+  "SHOPPING_CART": [
+    "cart-shopping",
+    "solid"
+  ],
+  "SHOWER": [
+    "shower",
+    "solid"
+  ],
+  "SIGN_IN": [
+    "right-to-bracket",
+    "solid"
+  ],
+  "SIGN_LANGUAGE": [
+    "hands",
+    "solid"
+  ],
+  "SIGN_OUT": [
+    "right-from-bracket",
+    "solid"
+  ],
+  "SIGNAL": [
+    "signal",
+    "solid"
+  ],
+  "SIGNING": [
+    "hands",
+    "solid"
+  ],
+  "SIMPLYBUILT": [
+    "simplybuilt",
+    "brands"
+  ],
+  "SITEMAP": [
+    "sitemap",
+    "solid"
+  ],
+  "SKYATLAS": [
+    "skyatlas",
+    "brands"
+  ],
+  "SKYPE": [
+    "skype",
+    "brands"
+  ],
+  "SLACK": [
+    "slack",
+    "brands"
+  ],
+  "SLIDERS": [
+    "sliders",
+    "solid"
+  ],
+  "SLIDESHARE": [
+    "slideshare",
+    "brands"
+  ],
+  "SMILE_ALT": [
+    "face-smile",
+    "regular"
+  ],
+  "SNAPCHAT": [
+    "snapchat",
+    "brands"
+  ],
+  "SNAPCHAT_GHOST": [
+    "snapchat",
+    "brands"
+  ],
+  "SNAPCHAT_SQUARE": [
+    "square-snapchat",
+    "brands"
+  ],
+  "SNOWFLAKE_ALT": [
+    "snowflake",
+    "regular"
+  ],
+  "SOCCER_BALL_ALT": [
+    "futbol",
+    "regular"
+  ],
+  "SORT": [
+    "sort",
+    "solid"
+  ],
+  "SORT_ALPHA_ASC": [
+    "arrow-down-a-z",
+    "solid"
+  ],
+  "SORT_ALPHA_DESC": [
+    "arrow-down-z-a",
+    "solid"
+  ],
+  "SORT_AMOUNT_ASC": [
+    "arrow-down-short-wide",
+    "solid"
+  ],
+  "SORT_AMOUNT_DESC": [
+    "arrow-down-wide-short",
+    "solid"
+  ],
+  "SORT_ASC": [
+    "sort-up",
+    "solid"
+  ],
+  "SORT_DESC": [
+    "sort-down",
+    "solid"
+  ],
+  "SORT_DOWN": [
+    "sort-down",
+    "solid"
+  ],
+  "SORT_NUMERIC_ASC": [
+    "arrow-down-1-9",
+    "solid"
+  ],
+  "SORT_NUMERIC_DESC": [
+    "arrow-down-9-1",
+    "solid"
+  ],
+  "SORT_UP": [
+    "sort-up",
+    "solid"
+  ],
+  "SOUNDCLOUD": [
+    "soundcloud",
+    "brands"
+  ],
+  "SPACE_SHUTTLE": [
+    "shuttle-space",
+    "solid"
+  ],
+  "SPINNER": [
+    "spinner",
+    "solid"
+  ],
+  "SPOON": [
+    "spoon",
+    "solid"
+  ],
+  "SPOTIFY": [
+    "spotify",
+    "brands"
+  ],
+  "SQUARE": [
+    "square",
+    "solid"
+  ],
+  "SQUARE_ALT": [
+    "square",
+    "regular"
+  ],
+  "STACK_EXCHANGE": [
+    "stack-exchange",
+    "brands"
+  ],
+  "STACK_OVERFLOW": [
+    "stack-overflow",
+    "brands"
+  ],
+  "STAR": [
+    "star",
+    "solid"
+  ],
+  "STAR_HALF": [
+    "star-half",
+    "solid"
+  ],
+  "STAR_HALF_EMPTY": [
+    "star-half-stroke",
+    "regular"
+  ],
+  "STAR_HALF_FULL": [
+    "star-half-stroke",
+    "regular"
+  ],
+  "STAR_HALF_ALT": [
+    "star-half-stroke",
+    "regular"
+  ],
+  "STAR_ALT": [
+    "star",
+    "regular"
+  ],
+  "STEAM": [
+    "steam",
+    "brands"
+  ],
+  "STEAM_SQUARE": [
+    "square-steam",
+    "brands"
+  ],
+  "STEP_BACKWARD": [
+    "backward-step",
+    "solid"
+  ],
+  "STEP_FORWARD": [
+    "forward-step",
+    "solid"
+  ],
+  "STETHOSCOPE": [
+    "stethoscope",
+    "solid"
+  ],
+  "STICKY_NOTE": [
+    "note-sticky",
+    "solid"
+  ],
+  "STICKY_NOTE_ALT": [
+    "note-sticky",
+    "regular"
+  ],
+  "STOP": [
+    "stop",
+    "solid"
+  ],
+  "STOP_CIRCLE": [
+    "circle-stop",
+    "solid"
+  ],
+  "STOP_CIRCLE_ALT": [
+    "circle-stop",
+    "regular"
+  ],
+  "STREET_VIEW": [
+    "street-view",
+    "solid"
+  ],
+  "STRIKETHROUGH": [
+    "strikethrough",
+    "solid"
+  ],
+  "STUMBLEUPON": [
+    "stumbleupon",
+    "brands"
+  ],
+  "STUMBLEUPON_CIRCLE": [
+    "stumbleupon-circle",
+    "brands"
+  ],
+  "SUBSCRIPT": [
+    "subscript",
+    "solid"
+  ],
+  "SUBWAY": [
+    "train-subway",
+    "solid"
+  ],
+  "SUITCASE": [
+    "suitcase",
+    "solid"
+  ],
+  "SUN_ALT": [
+    "sun",
+    "regular"
+  ],
+  "SUPERPOWERS": [
+    "superpowers",
+    "brands"
+  ],
+  "SUPERSCRIPT": [
+    "superscript",
+    "solid"
+  ],
+  "SUPPORT": [
+    "life-ring",
+    "solid"
+  ],
+  "TABLE": [
+    "table",
+    "solid"
+  ],
+  "TABLET": [
+    "tablet-screen-button",
+    "solid"
+  ],
+  "TACHOMETER": [
+    "gauge-high",
+    "solid"
+  ],
+  "TAG": [
+    "tag",
+    "solid"
+  ],
+  "TAGS": [
+    "tags",
+    "solid"
+  ],
+  "TASKS": [
+    "bars-progress",
+    "solid"
+  ],
+  "TAXI": [
+    "taxi",
+    "solid"
+  ],
+  "TELEGRAM": [
+    "telegram",
+    "brands"
+  ],
+  "TELEVISION": [
+    "tv",
+    "solid"
+  ],
+  "TENCENT_WEIBO": [
+    "tencent-weibo",
+    "brands"
+  ],
+  "TERMINAL": [
+    "terminal",
+    "solid"
+  ],
+  "TEXT_HEIGHT": [
+    "text-height",
+    "solid"
+  ],
+  "TEXT_WIDTH": [
+    "text-width",
+    "solid"
+  ],
+  "TH": [
+    "table-cells",
+    "solid"
+  ],
+  "TH_LARGE": [
+    "table-cells-large",
+    "solid"
+  ],
+  "TH_LIST": [
+    "table-list",
+    "solid"
+  ],
+  "THEMEISLE": [
+    "themeisle",
+    "brands"
+  ],
+  "THERMOMETER": [
+    "temperature-full",
+    "solid"
+  ],
+  "THERMOMETER_0": [
+    "temperature-empty",
+    "solid"
+  ],
+  "THERMOMETER_1": [
+    "temperature-quarter",
+    "solid"
+  ],
+  "THERMOMETER_2": [
+    "temperature-half",
+    "solid"
+  ],
+  "THERMOMETER_3": [
+    "temperature-three-quarters",
+    "solid"
+  ],
+  "THERMOMETER_4": [
+    "temperature-full",
+    "solid"
+  ],
+  "THERMOMETER_EMPTY": [
+    "temperature-empty",
+    "solid"
+  ],
+  "THERMOMETER_FULL": [
+    "temperature-full",
+    "solid"
+  ],
+  "THERMOMETER_HALF": [
+    "temperature-half",
+    "solid"
+  ],
+  "THERMOMETER_QUARTER": [
+    "temperature-quarter",
+    "solid"
+  ],
+  "THERMOMETER_THREE_QUARTERS": [
+    "temperature-three-quarters",
+    "solid"
+  ],
+  "THUMB_TACK": [
+    "thumbtack",
+    "solid"
+  ],
+  "THUMBS_DOWN": [
+    "thumbs-down",
+    "solid"
+  ],
+  "THUMBS_ALT_DOWN": [
+    "thumbs-down",
+    "regular"
+  ],
+  "THUMBS_ALT_UP": [
+    "thumbs-up",
+    "regular"
+  ],
+  "THUMBS_UP": [
+    "thumbs-up",
+    "solid"
+  ],
+  "TICKET": [
+    "ticket",
+    "solid"
+  ],
+  "TIMES": [
+    "xmark",
+    "solid"
+  ],
+  "TIMES_CIRCLE": [
+    "circle-xmark",
+    "solid"
+  ],
+  "TIMES_CIRCLE_ALT": [
+    "circle-xmark",
+    "regular"
+  ],
+  "TIMES_RECTANGLE": [
+    "rectangle-xmark",
+    "solid"
+  ],
+  "TIMES_RECTANGLE_ALT": [
+    "rectangle-xmark",
+    "regular"
+  ],
+  "TINT": [
+    "droplet",
+    "solid"
+  ],
+  "TOGGLE_DOWN": [
+    "square-caret-down",
+    "regular"
+  ],
+  "TOGGLE_LEFT": [
+    "square-caret-left",
+    "regular"
+  ],
+  "TOGGLE_OFF": [
+    "toggle-off",
+    "solid"
+  ],
+  "TOGGLE_ON": [
+    "toggle-on",
+    "solid"
+  ],
+  "TOGGLE_RIGHT": [
+    "square-caret-right",
+    "regular"
+  ],
+  "TOGGLE_UP": [
+    "square-caret-up",
+    "regular"
+  ],
+  "TRADEMARK": [
+    "trademark",
+    "solid"
+  ],
+  "TRAIN": [
+    "train",
+    "solid"
+  ],
+  "TRANSGENDER": [
+    "mars-and-venus",
+    "solid"
+  ],
+  "TRANSGENDER_ALT": [
+    "transgender",
+    "solid"
+  ],
+  "TRASH": [
+    "trash-can",
+    "solid"
+  ],
+  "TRASH_ALT": [
+    "trash-can",
+    "regular"
+  ],
+  "TREE": [
+    "tree",
+    "solid"
+  ],
+  "TRELLO": [
+    "trello",
+    "brands"
+  ],
+  "TROPHY": [
+    "trophy",
+    "solid"
+  ],
+  "TRUCK": [
+    "truck",
+    "solid"
+  ],
+  "TRY": [
+    "turkish-lira-sign",
+    "solid"
+  ],
+  "TTY": [
+    "tty",
+    "solid"
+  ],
+  "TUMBLR": [
+    "tumblr",
+    "brands"
+  ],
+  "TUMBLR_SQUARE": [
+    "square-tumblr",
+    "brands"
+  ],
+  "TURKISH_LIRA": [
+    "turkish-lira-sign",
+    "solid"
+  ],
+  "TV": [
+    "tv",
+    "solid"
+  ],
+  "TWITCH": [
+    "twitch",
+    "brands"
+  ],
+  "TWITTER": [
+    "twitter",
+    "brands"
+  ],
+  "TWITTER_SQUARE": [
+    "square-twitter",
+    "brands"
+  ],
+  "UMBRELLA": [
+    "umbrella",
+    "solid"
+  ],
+  "UNDERLINE": [
+    "underline",
+    "solid"
+  ],
+  "UNDO": [
+    "arrow-rotate-left",
+    "solid"
+  ],
+  "UNIVERSAL_ACCESS": [
+    "universal-access",
+    "solid"
+  ],
+  "UNIVERSITY": [
+    "building-columns",
+    "solid"
+  ],
+  "UNLINK": [
+    "link-slash",
+    "solid"
+  ],
+  "UNLOCK": [
+    "unlock",
+    "solid"
+  ],
+  "UNLOCK_ALT": [
+    "unlock",
+    "solid"
+  ],
+  "UNSORTED": [
+    "sort",
+    "solid"
+  ],
+  "UPLOAD": [
+    "upload",
+    "solid"
+  ],
+  "USB": [
+    "usb",
+    "brands"
+  ],
+  "USD": [
+    "dollar-sign",
+    "solid"
+  ],
+  "USER": [
+    "user",
+    "solid"
+  ],
+  "USER_CIRCLE": [
+    "circle-user",
+    "solid"
+  ],
+  "USER_CIRCLE_ALT": [
+    "circle-user",
+    "regular"
+  ],
+  "USER_MD": [
+    "user-doctor",
+    "solid"
+  ],
+  "USER_ALT": [
+    "user",
+    "regular"
+  ],
+  "USER_PLUS": [
+    "user-plus",
+    "solid"
+  ],
+  "USER_SECRET": [
+    "user-secret",
+    "solid"
+  ],
+  "USER_TIMES": [
+    "user-xmark",
+    "solid"
+  ],
+  "USERS": [
+    "users",
+    "solid"
+  ],
+  "VCARD": [
+    "address-card",
+    "solid"
+  ],
+  "VCARD_ALT": [
+    "address-card",
+    "regular"
+  ],
+  "VENUS": [
+    "venus",
+    "solid"
+  ],
+  "VENUS_DOUBLE": [
+    "venus-double",
+    "solid"
+  ],
+  "VENUS_MARS": [
+    "venus-mars",
+    "solid"
+  ],
+  "VIACOIN": [
+    "viacoin",
+    "brands"
+  ],
+  "VIADEO": [
+    "viadeo",
+    "brands"
+  ],
+  "VIADEO_SQUARE": [
+    "square-viadeo",
+    "brands"
+  ],
+  "VIDEO_CAMERA": [
+    "video",
+    "solid"
+  ],
+  "VIMEO": [
+    "vimeo-v",
+    "brands"
+  ],
+  "VIMEO_SQUARE": [
+    "square-vimeo",
+    "brands"
+  ],
+  "VINE": [
+    "vine",
+    "brands"
+  ],
+  "VK": [
+    "vk",
+    "brands"
+  ],
+  "VOLUME_CONTROL_PHONE": [
+    "phone-volume",
+    "solid"
+  ],
+  "VOLUME_DOWN": [
+    "volume-low",
+    "solid"
+  ],
+  "VOLUME_OFF": [
+    "volume-off",
+    "solid"
+  ],
+  "VOLUME_UP": [
+    "volume-high",
+    "solid"
+  ],
+  "WARNING": [
+    "triangle-exclamation",
+    "solid"
+  ],
+  "WECHAT": [
+    "weixin",
+    "brands"
+  ],
+  "WEIBO": [
+    "weibo",
+    "brands"
+  ],
+  "WEIXIN": [
+    "weixin",
+    "brands"
+  ],
+  "WHATSAPP": [
+    "whatsapp",
+    "brands"
+  ],
+  "WHEELCHAIR": [
+    "wheelchair",
+    "solid"
+  ],
+  "WHEELCHAIR_ALT": [
+    "accessible-icon",
+    "brands"
+  ],
+  "WIFI": [
+    "wifi",
+    "solid"
+  ],
+  "WIKIPEDIA_W": [
+    "wikipedia-w",
+    "brands"
+  ],
+  "WINDOW_CLOSE": [
+    "rectangle-xmark",
+    "solid"
+  ],
+  "WINDOW_CLOSE_ALT": [
+    "rectangle-xmark",
+    "regular"
+  ],
+  "WINDOW_MAXIMIZE": [
+    "window-maximize",
+    "regular"
+  ],
+  "WINDOW_MINIMIZE": [
+    "window-minimize",
+    "solid"
+  ],
+  "WINDOW_RESTORE": [
+    "window-restore",
+    "regular"
+  ],
+  "WINDOWS": [
+    "windows",
+    "brands"
+  ],
+  "WON": [
+    "won-sign",
+    "solid"
+  ],
+  "WORDPRESS": [
+    "wordpress",
+    "brands"
+  ],
+  "WPBEGINNER": [
+    "wpbeginner",
+    "brands"
+  ],
+  "WPEXPLORER": [
+    "wpexplorer",
+    "brands"
+  ],
+  "WPFORMS": [
+    "wpforms",
+    "brands"
+  ],
+  "WRENCH": [
+    "wrench",
+    "solid"
+  ],
+  "XING": [
+    "xing",
+    "brands"
+  ],
+  "XING_SQUARE": [
+    "square-xing",
+    "brands"
+  ],
+  "Y_COMBINATOR": [
+    "y-combinator",
+    "brands"
+  ],
+  "Y_COMBINATOR_SQUARE": [
+    "hacker-news",
+    "brands"
+  ],
+  "YAHOO": [
+    "yahoo",
+    "brands"
+  ],
+  "YC": [
+    "y-combinator",
+    "brands"
+  ],
+  "YC_SQUARE": [
+    "hacker-news",
+    "brands"
+  ],
+  "YELP": [
+    "yelp",
+    "brands"
+  ],
+  "YEN": [
+    "yen-sign",
+    "solid"
+  ],
+  "YOAST": [
+    "yoast",
+    "brands"
+  ],
+  "YOUTUBE": [
+    "youtube",
+    "brands"
+  ],
+  "YOUTUBE_PLAY": [
+    "youtube",
+    "brands"
+  ],
+  "YOUTUBE_SQUARE": [
+    "square-youtube",
+    "brands"
+  ]
+}

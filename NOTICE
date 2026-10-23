@@ -1,0 +1,23 @@
+FontAwesomeFX
+
+Derived from FontAwesomeFX by Jens Deters:
+https://github.com/Jerady
+Original project: https://bitbucket.org/Jerady/fontawesomefx/
+
+Original Java sources retain their copyright and attribution notices,
+including Copyright (c) 2013-2016 Jens Deters and
+Copyright (c) 2016 Diego Cirujano Cuesta for GlyphStackIcon.
+The Java code is licensed under the Apache License, Version 2.0.
+
+This fork updates Font Awesome to Free 7.3.1, adapts glyph font selection,
+replaces the Gradle/Bintray build with Maven, and adds a standalone icon viewer under io.github.jimmyboombots3000.
+Maven artifacts use the io.github.jimmyboombots3000 group ID.
+Font styling also preserves icon fonts and caller styles through resizing.
+It is an independent fork, not an official release by Jens Deters.
+
+Maven Wrapper includes software developed at the Apache Software Foundation
+(https://www.apache.org/), licensed under the Apache License, Version 2.0.
+
+Bundled fonts and artwork retain their own licenses. See
+THIRD-PARTY-NOTICES.md, licenses/, and module resources under license/.
+These notices do not change the terms of the respective licenses.

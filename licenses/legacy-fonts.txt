@@ -1,0 +1,43 @@
+Copyright and attribution for bundled legacy fonts
+
+Font Awesome 4.7.0 (fontawesome-webfont.ttf)
+Copyright Dave Gandy 2016. All rights reserved.
+Author: Dave Gandy / Fort Awesome
+https://fontawesome.com/v4/license/
+License: SIL Open Font License 1.1 (OFL-1.1.txt).
+Retained only for the deprecated MEANPATH and TRIPADVISOR constants.
+
+525icons 3.0 (525icons.ttf)
+Copyright / author: Rune V Cappelen Stromsted (@runestro)
+The font's embedded copyright field reads "@runestro".
+http://525icons.com
+License: SIL Open Font License 1.1 (OFL-1.1.txt), as specified in the font itself.
+
+Weather Icons 2.0.10 (weathericons-regular-webfont.ttf)
+Authors: Erik Flowers; Lukas Bischoff (v1 artwork).
+https://github.com/erikflowers/weather-icons
+License: SIL Open Font License 1.1 (OFL-1.1.txt).
+The upstream project's separate CSS/code and documentation licenses do not
+replace the font's OFL license.
+
+Material Icons (MaterialIcons-Regular.ttf, in materialicons and materialstackicons)
+Copyright 2015 Google, Inc. All Rights Reserved.
+https://github.com/google/material-design-icons
+License: Apache License 2.0 (../LICENSE).
+
+EmojiOne SVG font (emojione-svg.otf)
+Copyright 2016 Adobe Systems Incorporated.
+Emoji art supplied by EmojiOne (https://www.emojione.com/).
+Font construction: https://github.com/adobe-fonts/emojione-color
+Adobe code license: MIT (emojione-adobe-MIT.txt).
+Embedded artwork license: Creative Commons Attribution 4.0 International
+(CC-BY-4.0.txt), as stated in the bundled font's license metadata.
+Artwork credit: EmojiOne; artwork designed by Denis Denz and produced by Rick Moby.
+The bundled font is unmodified by this fork.
+
+Octicons legacy font (octicons.ttf)
+Copyright (c) 2012-2016 GitHub, Inc.
+https://github.com/primer/octicons
+The inherited fontinfo.properties specifies SIL Open Font License 1.1
+(OFL-1.1.txt) for this font. The upstream v4.3.0 repository also distributes
+the MIT notice retained as octicons.txt.

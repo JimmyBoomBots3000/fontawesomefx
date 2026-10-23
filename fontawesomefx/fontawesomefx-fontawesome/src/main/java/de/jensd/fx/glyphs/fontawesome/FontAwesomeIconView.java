@@ -11,12 +11,11 @@
  * governing permissions and limitations under the License.
  *
  */
+// Modified in this fork to load Font Awesome Free solid, regular and brands fonts.
 package de.jensd.fx.glyphs.fontawesome;
 
 import de.jensd.fx.glyphs.GlyphIcon;
 import java.io.IOException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javafx.scene.text.Font;
 
 /**
@@ -27,18 +26,26 @@ public class FontAwesomeIconView extends GlyphIcon<FontAwesomeIcon> {
 
     public final static String TTF_PATH = "/de/jensd/fx/glyphs/fontawesome/fontawesome-webfont.ttf";
 
+    public static final String SOLID_FONT_PATH = "/de/jensd/fx/glyphs/fontawesome/fa-solid.otf";
+    public static final String REGULAR_FONT_PATH = "/de/jensd/fx/glyphs/fontawesome/fa-regular.otf";
+    public static final String BRANDS_FONT_PATH = "/de/jensd/fx/glyphs/fontawesome/fa-brands.otf";
+
     static {
-        try {
-            Font.loadFont(FontAwesomeIconView.class.getResource(TTF_PATH).openStream(), 10.0d);
-        } catch (IOException ex) {
-            Logger.getLogger(FontAwesomeIconView.class.getName()).log(Level.SEVERE, null, ex);
+        for (String path : new String[]{SOLID_FONT_PATH, REGULAR_FONT_PATH, BRANDS_FONT_PATH, TTF_PATH}) {
+            try (java.io.InputStream stream = FontAwesomeIconView.class.getResourceAsStream(path)) {
+                if (stream == null || Font.loadFont(stream, 10.0d) == null) {
+                    throw new IllegalStateException("Cannot load icon font: " + path);
+                }
+            } catch (IOException ex) {
+                throw new ExceptionInInitializerError(ex);
+            }
         }
     }
 
     public FontAwesomeIconView(FontAwesomeIcon icon, String iconSize) {
         super(FontAwesomeIcon.class);
         setIcon(icon);
-        setStyle(String.format("-fx-font-family: %s; -fx-font-size: %s;", icon.fontFamily(), iconSize));
+        setStyle(String.format("-fx-font-family: '%s'; -fx-font-size: %s;", icon.fontFamily(), iconSize));
     }
 
     public FontAwesomeIconView(FontAwesomeIcon icon) {

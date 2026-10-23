@@ -11,6 +11,7 @@
  * governing permissions and limitations under the License.
  *
  */
+// Modified in this fork to quote icon font names consistently for JavaFX CSS.
 package de.jensd.fx.glyphs;
 
 import java.lang.reflect.Field;
@@ -72,7 +73,7 @@ public class GlyphsFactory {
     public Text createIcon(GlyphIcons icon, String iconSize) {
         Text text = new Text(icon.unicode());
         text.getStyleClass().add("glyph-icon");
-        text.setStyle(String.format("-fx-font-family: %s; -fx-font-size: %s;", icon.fontFamily(), iconSize));
+        text.setStyle(String.format("-fx-font-family: %s; -fx-font-size: %s;", GlyphIcon.quoteFontFamily(icon.fontFamily()), iconSize));
         return text;
     }
 
