@@ -1,3 +1,7 @@
+A fork of [https://bitbucket.org/Jerady/fontawesomefx/](https://bitbucket.org/Jerady/fontawesomefx/) by Jens Deters
+
+---
+
 Kudos to Dave Gandy who has created an incredible cool icon font called [Font Awesome][1].
 
 This font fits perfectly into JavaFX as
