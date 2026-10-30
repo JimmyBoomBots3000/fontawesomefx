@@ -1,5 +1,7 @@
 # FontAwesomeFX
 
+**Using Swing? See [FontAwesomeSwing](https://github.com/JimmyBoomBots3000/fontawesomeswing).**
+
 Scalable icon fonts for JavaFX, with **Font Awesome Free 7.3.1**, a searchable
 icon viewer, and a Maven build.
 
